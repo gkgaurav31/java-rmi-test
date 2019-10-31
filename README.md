@@ -1,6 +1,6 @@
 "# java-rmi-test" 
 
-Steps to use it
+Steps to run it:
 
 #Start the rmiserver using the command:
 start rmi server 8080
